@@ -234,7 +234,7 @@ top
 @media screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(top.png) top right/82.5% no-repeat;
+    background: url(top_s.png) top right/82.5% no-repeat;
   }
 }
 
@@ -401,7 +401,7 @@ about
 
 @media screen and (min-width: 768px) {
   .about {
-    background: url(bg.png) center center/cover;
+    background: url(bg_2.png) center center/cover;
   }
 }
 
