@@ -394,7 +394,7 @@ about
 
 @media screen and (max-width: 767px) {
   .about {
-    background: url(bg_2.png) center center/cover;
+    background: url(bg_s.png) center center/cover;
     padding: 176px 0 52px;
   }
 }
