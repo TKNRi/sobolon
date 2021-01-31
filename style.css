@@ -227,14 +227,14 @@ top
 @media screen and (max-width: 767px) {
   .top-picture {
     padding-top: 120%;
-    background: url(../img/sp/top.png) center center/cover;
+    background: url(top.png) center center/cover;
   }
 }
 
 @media screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(../img/top.png) top right/82.5% no-repeat;
+    background: url(top.png) top right/82.5% no-repeat;
   }
 }
 
@@ -394,14 +394,14 @@ about
 
 @media screen and (max-width: 767px) {
   .about {
-    background: url(../img/sp/bg.png) center center/cover;
+    background: url(bg.png) center center/cover;
     padding: 176px 0 52px;
   }
 }
 
 @media screen and (min-width: 768px) {
   .about {
-    background: url(../img/bg.png) center center/cover;
+    background: url(bg.png) center center/cover;
   }
 }
 
@@ -687,7 +687,7 @@ concept2
 contact
 =========================*/
 .contact {
-  background: url(../img/contact.png) center center/cover;
+  background: url(contact.png) center center/cover;
   margin-top: 225px;
   padding: 72px 40px 86px;
 }
